@@ -2,10 +2,14 @@
   "name": "10004ok",
   "displayName": "10004ok",
   "description": "hyezoprk's theme",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "publisher": "hyezoprk",
   "engines": {
     "vscode": "^1.71.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/10004ok/10004ok-theme.git"
   },
   "categories": [
     "Themes"
