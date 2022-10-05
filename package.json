@@ -1,0 +1,22 @@
+{
+  "name": "10004ok",
+  "displayName": "10004ok",
+  "description": "hyezoprk's theme",
+  "version": "0.0.2",
+  "publisher": "hyezoprk",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "10004ok",
+        "uiTheme": "vs-dark",
+        "path": "./themes/10004ok.json"
+      }
+    ]
+  }
+}
