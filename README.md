@@ -1,16 +1,15 @@
-# blue README
+# README
 
-## Working with Markdown
+## 혜조테마
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Based on **Tailwind** theme which has two tone colors of redish and blusy.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- added _Orange_ as Variables`const` and Generic`<T>` color.
+- and reverted most of white into ohters color.
+- but hope that still can be felt **Tailwind**'s mood in it.
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- 요청 사절요ㅎ
 
 **Enjoy!**
