@@ -4,9 +4,12 @@
 
 Based on **Tailwind** theme which has two tone colors of redish and blusy.
 
-- added _Orange_ as Variables`const` and Generic`<T>` color.
-- and reverted most of white into ohters color.
-- but hope that still can be felt **Tailwind**'s mood in it.
+- Added _Orange_ as Variables`const` and TS Generic`<T>` color.
+- Reverted most of white into ohters.
+- Brackets colors too(they are 6 different colors now).
+- Markdown surpport.
+
+But still hope that you can feel **Tailwind**'s mood in it.
 
 ## For more information
 
