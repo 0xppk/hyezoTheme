@@ -1,15 +1,15 @@
 {
-  "name": "10004ok",
-  "displayName": "10004ok",
+  "name": "hyezo",
+  "displayName": "hyezo",
   "description": "hyezoprk's theme",
-  "version": "0.0.9",
+  "version": "1.0.1",
   "publisher": "hyezoprk",
   "engines": {
-    "vscode": "^1.71.0"
+    "vscode": "^1.8.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/10004ok/10004ok-theme.git"
+    "url": "git://github.com/hyezoprk/hyezoTheme.git"
   },
   "categories": [
     "Themes"
@@ -17,14 +17,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "10004ok-light",
+        "label": "hyezo-light",
         "uiTheme": "vs",
-        "path": "./themes/10004ok-light.json"
+        "path": "./themes/hyezo-light.json"
       },
       {
-        "label": "10004ok-dark",
+        "label": "hyezo-dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/10004ok-dark.json"
+        "path": "./themes/hyezo-dark.json"
       }
     ]
   }
